@@ -1,0 +1,71 @@
+// commentaire 
+% commentaire
+# commentaire
+
+// DEBUT
+DAL 4 ;
+DBT ;
+DAL 8 ;
+ATT 40 ;
+DAL 16 ;
+DAL 8 ;
+DET 24;
+
+MRE 250;
+ATT 80;
+MAR ;
+ATT 80 ;
+MAV 250 ;
+ATT 80 ;
+MAR ;
+
+// ---- Partie Musicale ---
+SGO 69 ;
+ATT 80 ;
+SAR ;
+
+// mouvement
+MAR ;
+MAV 0 ;
+MAV 255 ;
+ATT 80 ;
+MAR ;
+MAV 0 ;
+MAV 200 ;
+ATT 80 ;
+TRD ;
+ATT 80 ;
+MAR ;
+MRE 0 ;
+MRE 255 ;
+MAR ;
+TRG ;
+MRE 0;
+MAR ;
+
+// Boucle
+DBC 4 ;
+SGO 60 ;
+DAL 64 ;
+DAL 32 ;
+ATT 80 ;
+DET 32 ;
+DET 64;
+SAR ;
+FBC ;
+
+MRE 200;
+ATT 80;
+MAR ;
+ATT 80 ;
+MAV 200 ;
+ATT 80 ;
+MAR ;
+
+// FIN
+FIN ;
+DAL 16 ;
+
+
+
+

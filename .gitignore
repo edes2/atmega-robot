@@ -1,0 +1,8 @@
+*.o
+*.a
+*.hex
+*.elf
+*.elf.map
+*.d
+*.vscode
+# peut etre les .simu aussi?
